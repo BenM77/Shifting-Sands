@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c662ededa480d014bb9ecc773812cf6f
+timeCreated: 1520284428
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Sand: {instanceID: 0}
+  - Water: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
